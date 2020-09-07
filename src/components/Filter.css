@@ -1,0 +1,9 @@
+.filter-container {
+  display: flex;
+
+  flex-direction: column;
+}
+
+.filter-container .checkbox {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,46 @@
+table {
+  width: 100%;
+}
+
+table, td, th {
+  border-collapse: collapse;
+}
+
+td, th {
+  text-align: left;
+  padding: 15px 0;
+
+  border-bottom: 1px solid #e4e4e4;
+}
+
+td {
+  vertical-align: baseline;
+}
+
+td p {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.title {
+  color: #000;
+  font-weight: bold;
+}
+
+.subtitle {
+  color: #999;
+  font-size: 13px;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
